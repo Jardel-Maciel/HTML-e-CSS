@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(24, 23, 23);
+    color: antiquewhite;
+    vertical-align: baseline;
+
+
+}
+a{
+    color: antiquewhite;
+}
